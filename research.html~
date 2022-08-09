@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<!-- saved from url=(0058)file:///F:/iStudy/X/PhD_SPDE/ChenlinGU_Homepage/index.html -->
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  
+	<title>ChenlinGU_Homepage</title>
+  
+	<meta name="description" content="website description">
+  
+	<meta name="keywords" content="website keywords, website keywords">
+  
+
+	<link rel="stylesheet" type="text/css" href="./style/style.css">
+
+</head>
+
+
+<body>
+  
+	<div id="main">
+    
+	<div id="header">
+      
+	<div id="logo">
+        
+	<div id="logo_text">
+          
+		<!-- class="logo_colour", allows you to change the colour of the text -->
+          
+		<h1><a href="index.html"><span class="logo_colour">Chenlin GU <font size=6 >(&#39038;&#38472;&#29747;)</font></span></a></h1>
+        
+	</div>
+      	</div>
+      
+	<div id="menubar">
+        
+		<ul id="menu">
+         
+		<!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+          
+		<li><a href="index.html">Home</a></li>
+          
+		<li class="selected"><a href="research.html">Research</a></li>
+          
+		<li><a href="teaching.html">Teaching</a></li>
+		
+		<li><a href="trivia.html">Trivia</a></li>
+        
+		</ul>
+      
+	</div>
+    
+	</div>
+   
+	<div id="site_content">           
+ 
+<!--  Many useful hyper of homepage :  
+JCM http://www.math.ens.fr/~mourrat/index.html
+https://www.math.u-psud.fr/~maillard/research.html
+http://igor-kortchemski.perso.math.cnrs.fr/index.html
+https://www.math.u-psud.fr/~maillard/index.html
+http://ilariamondello.com/language/fr/
+http://www.cmls.polytechnique.fr/perso/favre/index.html
+http://www.cmap.polytechnique.fr/~bansaye/index.html
+https://www.crcpress.com/authors/i1031-pierre-henry-labordere
+https://web.stanford.edu/~alroth/
+http://web.stanford.edu/~wqy/
+
+ --> 
+        
+	
+
+        
+        
+      
+
+	<div id="content_2">
+		<h2>Preprints and publications</h2>
+		<ul>
+			<li>Quantitative homogenization of the parabolic and elliptic Green's functions on percolation clusters. (with <a href="http://www.math.ens.fr/~dario/">Paul Dario</a>) <a href="https://arxiv.org/abs/1909.10439">[arXiv:1909.10439]</a> <a href="PPT/HeatKernel_PPT.pdf">[ppt]</a></li>
+			<li>An efficient algorithm for solving elliptic problems on percolation clusters. <a href="https://arxiv.org/abs/1907.13571">[arXiv:1907.13571]</a> <a href="PPT/AlgoPerco_PPT.pdf">[ppt]</a></li>
+			<li>Forbidden transactions and black markets. (with <a href="http://web.stanford.edu/~wqy/">Qingyun Wu</a> and <a href="https://web.stanford.edu/~alroth/">Alvin E. Roth</a>) <a href="http://web.stanford.edu/~wqy/research/Forbidden%20transactions%20and%20black%20markets.pdf">[Submitted]</a> <a href="PPT/BlackMarket.pdf">[ppt]</a> </li>
+			<li><b>Uniform estimate of an iterative method for elliptic problems with rapidly oscillating coefficients. </b>to appear in <i>Stochastics and Partial Differential Equations: Analysis and Computations, 2019.</i> <a href="https://arxiv.org/abs/1807.06565">[arXiv:1807.06565]</a></li>
+		</ul>
+		<h2>Thesis</h2>
+		<ul>
+			<li>M2 thesis on homogenization supervised by <a href="http://www.math.ens.fr/~mourrat/index.html">Jean-Christophe Mourrat</a> (July 2018). <a href="notes/M2.pdf">[pdf]</a> </li>
+
+			<li>M1 thesis on Liouville gravity supervised by <a href="https://www.math.u-psud.fr/~maillard/research.html">Pascal Maillard</a> (July 2017). <a href="notes/M1.pdf">[pdf]</a> </li>
+	
+			<li>Bachelor thesis on Onsager's conjecture supervised by <a href="http://homepage.fudan.edu.cn/zhenlei/">Zhen Lei</a> (January 2014). <a href="notes/Onsager.pdf">[pdf]</a></li>
+		</ul>
+		<h2>Miscellaneous Writing</h2>
+		<ul>
+    		<li>Note on Gromov-Hausdorff topology taken from the talk by <a href="http://ilariamondello.com/language/fr/">Ilaria Mondello</a> (September 2017). <a href="notes/GromovHausdorff.pdf">[pdf]</a></li>
+			<li>Simulation of quasi-stationary distribution with Yiyang Yu supervised by <a href="http://www.cmap.polytechnique.fr/~bansaye/index.html">Vincent Bansaye</a> (April 2017). <a href="notes/EA3A2.pdf">[pdf] </a></li>
+			<li>Simulation of BSDE with Jingke Xu and supervised by <a href="https://www.crcpress.com/authors/i1031-pierre-henry-labordere">Pierre Henry-Labordere</a> (April 2017). <a href="notes/Projet3A.pdf">[pdf]</a></li>
+			<li>Project on random recursive lamination on disk supervised by <a href="http://igor-kortchemski.perso.math.cnrs.fr/index.html">Igor Kortchemski</a> (January 2017). <a href="notes/EA3A1.pdf">[pdf]</a></li>
+			<li>Teamwork project ("Projet Scientifique Collectif") on graph expander with Mathilde de la Morinerie, Chloe Papin, Oussama Hanguir, Manh Tien Nguyen, Van Huy Vo and supervised by <a href="http://www.cmls.polytechnique.fr/perso/favre/index.html">Charles Favre</a> (May 2016). <a href="notes/PSC.pdf">[pdf]</a></li>    
+	   </ul>
+	</div>
+    
+   </div>
+
+
+
+</body>
+</html>

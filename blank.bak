@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!-- saved from url=(0058)file:///F:/iStudy/X/PhD_SPDE/ChenlinGU_Homepage/index.html -->
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  
+	<title>ChenlinGU_Homepage</title>
+  
+	<meta name="description" content="website description">
+  
+	<meta name="keywords" content="website keywords, website keywords">
+  
+
+	<link rel="stylesheet" type="text/css" href="./style/style.css">
+
+</head>
+
+
+<body>
+  
+	<div id="main">
+    
+	<div id="header">
+      
+	<div id="logo">
+        
+	<div id="logo_text">
+          
+		<!-- class="logo_colour", allows you to change the colour of the text -->
+          
+		<h1><a href="index.html"><span class="logo_colour">Chenlin GU <font size=6 >(&#39038;&#38472;&#29747;)</font></span></a></h1>
+        
+	</div>
+      	</div>
+      
+	<div id="menubar">
+        
+		<ul id="menu">
+         
+		<!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+          
+		<li class="selected"><a href="index.html">Home</a></li>
+          
+		<li><a href="research.html">Research</a></li>
+          
+		<li><a href="teaching.html">Teaching</a></li>
+        
+		</ul>
+      
+	</div>
+    
+	</div>
+  
+	<div id="site_content">
+      
+	<div id="sidebar_container">
+        
+	<div class="sidebar">
+                 
+         
+	
+	</div>
+        
+        
+      
+	</div>
+       
+	<div id="content">
+	<!-- One can use content_2 if we do not want to use sidebar -->
+        
+	</div>
+	</div>
+    
+
+</body>
+</html>

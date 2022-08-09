@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<!-- saved from url=(0058)file:///F:/iStudy/X/PhD_SPDE/ChenlinGU_Homepage/index.html -->
+<html><head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" >
+  
+	<title>ChenlinGU_Homepage</title>
+  
+	<meta name="description" content="website description">
+  
+	<meta name="keywords" content="website keywords, website keywords">
+  
+
+	<link rel="stylesheet" type="text/css" href="./style/style.css">
+
+</head>
+
+
+<body>
+  
+	<div id="main">
+    
+	<div id="header">
+      
+	<div id="logo">
+        
+	<div id="logo_text">
+          
+		<!-- class="logo_colour", allows you to change the colour of the text -->
+          
+		<h1><a href="index.html"><span class="logo_colour">Chenlin GU <font size=7 >(&#39038;&#38472;&#29747;)</font></span></a></h1>
+        
+	</div>
+      	</div>
+      
+	<div id="menubar">
+        
+		<ul id="menu">
+         
+		<!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+          
+		<li class="selected"><a href="index.html">Home</a></li>
+          
+		<li><a href="research.html">Research</a></li>
+          
+		<li><a href="teaching.html">Teaching</a></li>
+		
+		<li><a href="trivia.html">Trivia</a></li>
+        
+		</ul>
+      
+	</div>
+    
+	</div>
+    
+	<div id="site_content">
+      
+	<div id="sidebar_container">
+        
+		<div class="sidebar">
+          
+		
+	<img src="id.jpg" width="222" height="222">          
+         
+		
+	</div>
+        
+        
+      
+	</div>
+      
+	<div id="content">
+        
+	<h2>Welcome to Chenlin Gu's homepage .</h2>
+	
+	<p>
+	Since Oct. 2018, I am a PhD student in probability and statistics in <a href="http://www.math.ens.fr/">DMA/ENS</a>, supervised by <a href="http://www.math.ens.fr/~mourrat/">Jean-Christophe Mourrat</a>. 
+	Before starting my PhD, I finished my master at <a href="https://www.math.u-psud.fr/-Proba-Stat-?lang=fr">Uinversit&eacute; Paris-Sud</a>, 
+	engineer diplome at <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a> 
+	and bachelor at <a href="http://math.fudan.edu.cn/">Fudan University</a>.
+	</p>
+
+
+ 
+	<p>Here is my <a href="CV_English_Recherche.pdf" target="_blank">CV</a>.</p>
+	<h4>Contact</h4>
+             
+	<u2>
+          
+		<li><strong>Address: </strong>Ecole normale sup&eacute;rieure,
+		D&eacute;partement de math&eacute;matiques,45 rue d'Ulm 
+		75005 Paris,France</li>
+          
+		<li><strong>E-mail: </strong>chenlin.gu@ens.fr</li>
+             
+	</u2>
+	</div>
+	</div>    
+
+
+</div></body></html>

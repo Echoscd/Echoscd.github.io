@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!-- saved from url=(0058)file:///F:/iStudy/X/PhD_SPDE/ChenlinGU_Homepage/index.html -->
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  
+	<title>ChenlinGU_Homepage</title>
+  
+	<meta name="description" content="website description">
+  
+	<meta name="keywords" content="website keywords, website keywords">
+  
+
+	<link rel="stylesheet" type="text/css" href="./style/style.css">
+
+</head>
+
+
+<body>
+  
+	<div id="main">
+    
+	<div id="header">
+      
+	<div id="logo">
+        
+	<div id="logo_text">
+          
+		<!-- class="logo_colour", allows you to change the colour of the text -->
+          
+		<h1><a href="index.html"><span class="logo_colour">Chenlin GU <font size=6 >(&#39038;&#38472;&#29747;)</font></span></a></h1>
+        
+	</div>
+      	</div>
+      
+	<div id="menubar">
+        
+		<ul id="menu">
+         
+		<!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+          
+		<li><a href="index.html">Home</a></li>
+          
+		<li><a href="research.html">Research</a></li>
+          
+		<li class="selected"><a href="teaching.html">Teaching</a></li>
+		
+		<li><a href="trivia.html">Trivia</a></li>
+        
+		</ul>
+      
+	</div>
+    
+	</div>
+      
+	<div id="site_content">
+      
+        
+        
+      
+	
+   
+	<div id="content_2">
+   
+	<p>In the year 2018-2019, I teached TD 3M290, TP 3M235 and TP 3M239 at Université Sorbonne.</p> 
+	<h4>3M235 (Méthode numérique) TP 2018-2019</h4> 
+	<p>
+		<a href="Teaching/3M235/3M235_TP1.pdf">TP1</a>, 
+		<a href="Teaching/3M235/3M235_TP1.py">(Code)</a>,
+		<a href="Teaching/3M235/3M235_TP2.pdf">TP2</a>,
+		<a href="Teaching/3M235/3M235_TP2_Immunoglobuline.pdb">(Data1</a>,
+		<a href="Teaching/3M235/3M235_TP2_Chaine_Mystere.txt">Data2</a>,
+		<a href="Teaching/3M235/3M235_TP2.py">Code)</a>,
+		<a href="Teaching/3M235/3M235_TP3.pdf">TP3</a>,
+		<a href="Teaching/3M235/3M235_TP3.py">(Code)</a>,
+		<a href="Teaching/3M235/3M235_TP_note.pdf">TP noté</a>,
+		<a href="Teaching/3M235/3M235_TP_note.txt">(Data</a>,
+		<a href="Teaching/3M235/3M235_TP_note.py">Code)</a>
+
+	</p> 
+	<h4>3M239 (Optimisation linéaire et convexité) TP 2018-2019</h4> 
+	<p>
+		<a href="Teaching/3M239/TP1.pdf">TP1</a>,<a href="Teaching/3M239/TP1.py">(Code)</a>, 
+		<a href="Teaching/3M239/TP2.pdf">TP2</a>,<a href="Teaching/3M239/TP2.py">(Code)</a>,
+		<a href="Teaching/3M239/TP3.pdf">TP3</a>,<a href="Teaching/3M239/TP3.py">(Code)</a>,
+		<a href="Teaching/3M239/TP4.pdf">TP4</a>,<a href="Teaching/3M239/TP4.py">(Code)</a>,
+		<a href="Teaching/3M239/TP5.pdf">TP5</a>,<a href="Teaching/3M239/TP5.py">(Code)</a>,
+		<a href="Teaching/3M239/TP6.pdf">TP6</a>,<a href="Teaching/3M239/TP6.py">(Code1</a>,<a href="Teaching/3M239/TP6_Newtwon.py">Code2)</a>,
+		<a href="Teaching/3M239/TP7.pdf">TP7</a>,<a href="Teaching/3M239/TP7.py">(Code)</a>,	
+	</p>
+	<h4>3M290 (Probabilité) TD 2018-2019</h4> 
+	<p>
+		<a href="Teaching/3M290/TD1.pdf">TD1</a>, 
+		<a href="Teaching/3M290/TD2.pdf">TD2</a>,
+		<a href="Teaching/3M290/TD3.pdf">TD3</a>,
+		<a href="Teaching/3M290/TD4.pdf">TD4</a>,
+		<a href="Teaching/3M290/CC1.pdf">TD5-CC1</a>,
+		<a href="Teaching/3M290/TD6.pdf">TD6</a>,
+		<a href="Teaching/3M290/TD7.pdf">TD7</a>,
+		<a href="Teaching/3M290/TD8.pdf">TD8</a>,
+		<a href="Teaching/3M290/CC2.pdf">CC2</a>,
+		<a href="Teaching/3M290/TD9.pdf">TD9</a>,
+		<a href="Teaching/3M290/Partiel.pdf">Partiel Exam</a>,
+		<a href="Teaching/3M290/Final.pdf">Final Exam</a>.
+	</p>
+	
+	<h2>Diffusion of maths</h2>
+		Tutor for high school students at <a href="http://www.parimaths.fr/">Paris Maths</a>: <a href="Teaching/SimulationAléa.pdf">Simulation of randomness</a>, <a href="Teaching/Erdos.pdf">Bertrand's postulate</a>.
+	</div>
+   </div> 
+
+</body>
+</html>

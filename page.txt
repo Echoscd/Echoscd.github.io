@@ -1,0 +1,28 @@
+
+Short Biography:  Chenlin Gu is now Postdoctoral Fellowl at NYU Shanghai. He obtained PhD at Ecole Normale Supérieure, supervised by Jean-Christophe Mourrat. His research focuses on the interactions between PDE theory and probability models like percolation, interacting particle systems. 
+
+
+
+
+Select Publications: 
+
+Quantitative homogenization of interacting particle systems. (with Arianna Giunti and Jean-Christophe Mourrat), submitted.
+
+Quantitative homogenization of the parabolic and elliptic Green's functions on percolation clusters. (with Paul Dario) Ann. Probab. 49(2), 556-636, (March 2021).
+
+Uniform estimate of an iterative method for elliptic problems with rapidly oscillating coefficients. Stoch PDE: Anal Comp 8, 787-818 (2020). [arXiv]
+
+
+
+
+Research interest: Stochastic Homogenization, Random Walk on Random Environment, Interacting Particle Systems
+
+
+
+
+
+
+Education: 	PhD, 		Ecole Normale Supérieure
+		MS,		Université Paris-Sud
+		Ingénieur	Ecole Polytechnique
+		BSc		Fudan University

@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<!-- saved from url=(0058)file:///F:/iStudy/X/PhD_SPDE/ChenlinGU_Homepage/index.html -->
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  
+	<title>ChenlinGU_Homepage</title>
+  
+	<meta name="description" content="website description">
+  
+	<meta name="keywords" content="website keywords, website keywords">
+  
+
+	<link rel="stylesheet" type="text/css" href="./style/style.css">
+
+</head>
+
+
+<body>
+  
+	<div id="main">
+    
+	<div id="header">
+      
+	<div id="logo">
+        
+	<div id="logo_text">
+          
+		<!-- class="logo_colour", allows you to change the colour of the text -->
+          
+		<h1><a href="index.html"><span class="logo_colour">Chenlin Gu <font size=6 >(&#39038;&#38472;&#29747;)</font></span></a></h1>
+        
+	</div>
+      	</div>
+      
+	<div id="menubar">
+        
+		<ul id="menu">
+         
+		<!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+          
+		<li><a href="index.html">Home</a></li>
+          
+		<li><a href="research.html">Research</a></li>
+          
+		<li class="selected"><a href="teaching.html">Teaching</a></li>
+		
+		<li><a href="trivia.html">Trivia</a></li>
+        
+		</ul>
+      
+	</div>
+    
+	</div>
+      
+	<div id="site_content">
+      
+        
+        
+      
+	
+   
+	<div id="content_2">
+
+	<p>In the year 2021, I taught the recitations for ODE and probability limit theory at NYU Shanghai.</p>	
+	<h4>SHU350 (Probability Limit Theory) Recitation</h4> 
+	<p>
+		<a href="Teaching/SHU350/Recitation 1.pdf", class="class3">Recitation 1</a>, 
+		<a href="Teaching/SHU350/Recitation 2.pdf", class="class3">Recitation 2</a>,
+		<a href="Teaching/SHU350/Recitation 3.pdf", class="class3">Recitation 3</a>, 
+		<a href="Teaching/SHU350/Recitation 4.pdf", class="class3">Recitation 4</a>, 
+		<a href="Teaching/SHU350/Recitation 5.pdf", class="class3">Recitation 5</a>, 
+		<a href="Teaching/SHU350/Recitation 6.pdf", class="class3">Recitation 6</a>, 
+		<a href="Teaching/SHU350/Recitation 7.pdf", class="class3">Recitation 7</a>, 
+	</p>
+	<p>
+		<a href="Teaching/SHU350/Recitation 8.pdf", class="class3">Recitation 8</a>, 
+		<a href="Teaching/SHU350/Recitation 9.pdf", class="class3">Recitation 9</a>, 
+		<a href="Teaching/SHU350/Recitation 10.pdf", class="class3">Recitation 10</a>,
+		<a href="Teaching/SHU350/Recitation 11.pdf", class="class3">Recitation 11</a>,
+		<a href="Teaching/SHU350/Midterm.pdf", class="class3">Midterm</a>,
+		<a href="Teaching/SHU350/Final.pdf", class="class3">Final</a>.   
+	</p> 
+	<h4>SHU363 (ODE) Recitation</h4> 
+	<p>
+		<a href="Teaching/SHU362/Recitation 1.pdf", class="class3">Recitation 1</a>, 
+		<a href="Teaching/SHU362/Recitation 2.pdf", class="class3">Recitation 2</a>,
+		<a href="Teaching/SHU362/Recitation 3.pdf", class="class3">Recitation 3</a>, 
+		<a href="Teaching/SHU362/Recitation 4.pdf", class="class3">Recitation 4</a>, 
+		<a href="Teaching/SHU362/Recitation 5.pdf", class="class3">Recitation 5</a>, 
+		<a href="Teaching/SHU362/Recitation 6.pdf", class="class3">Recitation 6</a>, 
+		<a href="Teaching/SHU362/Recitation 7.pdf", class="class3">Recitation 7</a>, 
+	</p>
+	<p>
+		<a href="Teaching/SHU362/Recitation 8.pdf", class="class3">Recitation 8</a>, 
+		<a href="Teaching/SHU362/Recitation 9.pdf", class="class3">Recitation 9</a>,
+		<a href="Teaching/SHU362/Midterm.pdf", class="class3">Midterm</a>,
+		<a href="Teaching/SHU362/Final.pdf", class="class3">Final</a>.   
+	</p>
+	<p>
+		<a href="Teaching/SHU362/HW1.pdf", class="class3">Homework 1</a>, 
+		<a href="Teaching/SHU362/HW2.pdf", class="class3">Homework 2</a>,
+		<a href="Teaching/SHU362/HW3.pdf", class="class3">Homework 3</a>.  
+	</p>
+
+	
+	<p>In the year 2020, I taught the lecture for MATH-UA.0224 vector analysis at New York University.</p>	
+	<h4>MATH-UA.0224 (Vector Analysis) Lecture</h4> 
+	<p>
+		<a href="Teaching/UA224/Lecture1.pdf", class="class3">Lecture 1</a>, 
+		<a href="Teaching/UA224/Lecture2.pdf", class="class3">Lecture 2</a>,
+		<a href="Teaching/UA224/Lecture3.pdf", class="class3">Lecture 3</a>,
+		<a href="Teaching/UA224/Lecture4.pdf", class="class3">Lecture 4</a>,
+		<a href="Teaching/UA224/Lecture5.pdf", class="class3">Lecture 5</a>,
+		<a href="Teaching/UA224/Lecture6.pdf", class="class3">Lecture 6</a>,
+		<a href="Teaching/UA224/Lecture7.pdf", class="class3">Lecture 7</a>.
+	</p> 
+	<p>
+		<a href="Teaching/UA224/HW1.pdf", class="class3">Homework 1</a>, 
+		<a href="Teaching/UA224/HW2.pdf", class="class3">Homework 2</a>,
+		<a href="Teaching/UA224/HW3.pdf", class="class3">Homework 3</a>,
+		<a href="Teaching/UA224/HW4.pdf", class="class3">Homework 4</a>,
+		<a href="Teaching/UA224/HW5.pdf", class="class3">Homework 5</a>,
+		<a href="Teaching/UA224/Midterm.pdf", class="class3">Midterm</a>,
+		<a href="Teaching/UA224/Final.pdf", class="class3">Final</a>.
+	</p> 
+   
+	<p>In the year 2018-2019, I taught TD 3M290, TP 3M235 and TP 3M239 at Université Sorbonne.</p> 
+	<h4>3M235 (Méthode numérique) TP</h4> 
+	<p>
+		<a href="Teaching/3M235/3M235_TP1.pdf", class="class3">TP1</a>, 
+		<a href="Teaching/3M235/3M235_TP1.py", class="class3">(Code)</a>,
+		<a href="Teaching/3M235/3M235_TP2.pdf", class="class3">TP2</a>,
+		<a href="Teaching/3M235/3M235_TP2_Immunoglobuline.pdb", class="class3">(Data1</a>,
+		<a href="Teaching/3M235/3M235_TP2_Chaine_Mystere.txt", class="class3">Data2</a>,
+		<a href="Teaching/3M235/3M235_TP2.py", class="class3">Code)</a>,
+		<a href="Teaching/3M235/3M235_TP3.pdf", class="class3">TP3</a>,
+		<a href="Teaching/3M235/3M235_TP3.py", class="class3">(Code)</a>,
+		<a href="Teaching/3M235/3M235_TP_note.pdf", class="class3">TP noté</a>,
+		<a href="Teaching/3M235/3M235_TP_note.txt", class="class3">(Data</a>,
+		<a href="Teaching/3M235/3M235_TP_note.py", class="class3">Code)</a>.
+
+	</p> 
+	<h4>3M239 (Optimisation linéaire et convexité) TP</h4> 
+	<p>
+		<a href="Teaching/3M239/TP1.pdf", class="class3">TP1</a>,<a href="Teaching/3M239/TP1.py", class="class3">(Code)</a>, 
+		<a href="Teaching/3M239/TP2.pdf", class="class3">TP2</a>,<a href="Teaching/3M239/TP2.py", class="class3">(Code)</a>,
+		<a href="Teaching/3M239/TP3.pdf", class="class3">TP3</a>,<a href="Teaching/3M239/TP3.py", class="class3">(Code)</a>,
+		<a href="Teaching/3M239/TP4.pdf", class="class3">TP4</a>,<a href="Teaching/3M239/TP4.py", class="class3">(Code)</a>,
+		<a href="Teaching/3M239/TP5.pdf", class="class3">TP5</a>,<a href="Teaching/3M239/TP5.py", class="class3">(Code)</a>,
+		<a href="Teaching/3M239/TP6.pdf", class="class3">TP6</a>,<a href="Teaching/3M239/TP6.py", class="class3">(Code1</a>,<a href="Teaching/3M239/TP6_Newtwon.py", class="class3">Code2)</a>,
+		<a href="Teaching/3M239/TP7.pdf", class="class3">TP7</a>,<a href="Teaching/3M239/TP7.py", class="class3">(Code)</a>.	
+	</p>
+	<h4>3M290 (Probabilité) TD</h4> 
+	<p>
+		<a href="Teaching/3M290/TD1.pdf", class="class3">TD1</a>, 
+		<a href="Teaching/3M290/TD2.pdf", class="class3">TD2</a>,
+		<a href="Teaching/3M290/TD3.pdf", class="class3">TD3</a>,
+		<a href="Teaching/3M290/TD4.pdf", class="class3">TD4</a>,
+		<a href="Teaching/3M290/CC1.pdf", class="class3">TD5-CC1</a>,
+		<a href="Teaching/3M290/TD6.pdf", class="class3">TD6</a>,
+		<a href="Teaching/3M290/TD7.pdf", class="class3">TD7</a>,
+		<a href="Teaching/3M290/TD8.pdf", class="class3">TD8</a>,
+		<a href="Teaching/3M290/CC2.pdf", class="class3">CC2</a>,
+		<a href="Teaching/3M290/TD9.pdf", class="class3">TD9</a>,
+		<a href="Teaching/3M290/Partiel.pdf", class="class3">Partiel Exam</a>,
+		<a href="Teaching/3M290/Final.pdf", class="class3">Final Exam</a>.
+	</p>
+	
+	<h2>Diffusion of maths</h2>
+		Tutor for high school students at <a href="http://www.parimaths.fr/", class="class2">Paris Maths</a>: <a href="Teaching/SimulationAléa.pdf", class="class3">Simulation of randomness</a>, <a href="Teaching/Erdos.pdf", class="class3">Bertrand's postulate</a>.
+	</div>
+   </div> 
+
+</body>
+</html>
