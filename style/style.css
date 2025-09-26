@@ -9,7 +9,7 @@ body
 { font: normal 0.9em  'trebuchet ms', arial, sans-serif;
   #background: #646557 url(pattern.png) repeat fixed;
     /* The image used */
-  background-image: url("triangle.png");
+  background-image: url("BG_white.png");
   background-attachment:fixed;
 
   /* Full height */
@@ -136,7 +136,7 @@ ol li
   text-decoration: none;}
 
 #logo_text h1 a .logo_colour
-{ color: #FFF;	}
+{ color: #000000;	}
 
 #logo_text h2
 { font-size: 120%;
@@ -344,6 +344,18 @@ ul#menu li a:hover
 
 .drop + input + div{
   display:none;
+}
+
+.paper-title {
+  font-weight: 600;      /* 加粗但不太粗 */
+  font-size: 1.1em;      /* 字号稍大 */
+  margin-bottom: 2px;   
+  color: #444;     
+}
+
+.paper-authors {
+  font-size: 0.95em;     /* 作者小一点 */
+           /* 字体颜色略浅，更有层次感 */
 }
 
 .drop + input:checked + div{

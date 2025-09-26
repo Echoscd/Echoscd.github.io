@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<!-- saved from url=(0058)file:///F:/iStudy/X/PhD_SPDE/ChenlinGU_Homepage/index.html -->
+<!-- saved from url=(0058)file:///F:/iStudy/X/PhD_SPDE/ChendongSONG_Homepage/index.html -->
 <html><head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" >
   
-	<title>ChenlinGU_Homepage</title>
+	<title>ChendongSONG_Homepage</title>
   
 	<meta name="description" content="website description">
   
@@ -27,7 +27,7 @@
           
 		<!-- class="logo_colour", allows you to change the colour of the text -->
           
-		<h1><a href="index.html"><span class="logo_colour">Chenlin Gu <font size=6 >(&#39038;&#38472;&#29747;)</font></span></a></h1>
+		<h1><a href="index.html"><span class="logo_colour">Chendong Song <font size=6 >(&#39038;&#38472;&#29747;)</font></span></a></h1>
         
 	</div>
       	</div>
@@ -41,10 +41,8 @@
 		<li class="selected"><a href="index.html">Home</a></li>
           
 		<li><a href="research.html">Research</a></li>
-          
-		<li><a href="teaching.html">Teaching</a></li>
 		
-		<li><a href="trivia.html">Trivia</a></li>
+		<li><a href="biography.html">Biography</a></li>
         
 		</ul>
       
@@ -70,7 +68,7 @@
       
 	<div id="content">
         
-	<h2>Welcome to Chenlin Gu's homepage.</h2>
+	<h2>Welcome to Chendong Song's homepage.</h2>
 
 	<p>I will join <a href="https://ymsc.tsinghua.edu.cn/", class="class2">YMSC</a> at <a href="https://www.tsinghua.edu.cn/", class="class2">Tsinghua University</a> this fall.</p>
 
@@ -87,7 +85,7 @@
 
 
  
-	<p>Here is my <a href="CV_Chenlin_Gu.pdf" class="class2", target="_blank">CV</a> and the manuscript of my <a href="http://www.math.ens.fr/~gu/thesis_Chenlin_Gu.pdf", class="class2">thesis</a>.</p>
+	<p>Here is my <a href="CV_Chendong_Song.pdf" class="class2", target="_blank">CV</a> and the manuscript of my <a href="http://www.math.ens.fr/~gu/thesis_Chendong_Song.pdf", class="class2">thesis</a>.</p>
 	<h4>Contact</h4>
              
 	<u2>

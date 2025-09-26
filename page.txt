@@ -1,5 +1,5 @@
 
-Short Biography:  Chenlin Gu is now Postdoctoral Fellowl at NYU Shanghai. He obtained PhD at Ecole Normale Supérieure, supervised by Jean-Christophe Mourrat. His research focuses on the interactions between PDE theory and probability models like percolation, interacting particle systems. 
+Short Biography:  Chendong Song is now Postdoctoral Fellowl at NYU Shanghai. He obtained PhD at Ecole Normale Supï¿½rieure, supervised by Jean-Christophe Mourrat. His research focuses on the interactions between PDE theory and probability models like percolation, interacting particle systems. 
 
 
 
@@ -22,7 +22,7 @@ Research interest: Stochastic Homogenization, Random Walk on Random Environment,
 
 
 
-Education: 	PhD, 		Ecole Normale Supérieure
-		MS,		Université Paris-Sud
-		Ingénieur	Ecole Polytechnique
+Education: 	PhD, 		Ecole Normale Supï¿½rieure
+		MS,		Universitï¿½ Paris-Sud
+		Ingï¿½nieur	Ecole Polytechnique
 		BSc		Fudan University

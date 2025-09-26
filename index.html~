@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<!-- saved from url=(0058)file:///F:/iStudy/X/PhD_SPDE/ChenlinGU_Homepage/index.html -->
+<!-- saved from url=(0058)file:///F:/iStudy/X/PhD_SPDE/ChendongSONG_Homepage/index.html -->
 <html><head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" >
   
-	<title>ChenlinGU_Homepage</title>
+	<title>ChendongSONG_Homepage</title>
   
 	<meta name="description" content="website description">
   
@@ -27,7 +27,7 @@
           
 		<!-- class="logo_colour", allows you to change the colour of the text -->
           
-		<h1><a href="index.html"><span class="logo_colour">Chenlin GU <font size=7 >(&#39038;&#38472;&#29747;)</font></span></a></h1>
+		<h1><a href="index.html"><span class="logo_colour">Chendong SONG <font size=7 >(&#39038;&#38472;&#29747;)</font></span></a></h1>
         
 	</div>
       	</div>
@@ -42,9 +42,8 @@
           
 		<li><a href="research.html">Research</a></li>
           
-		<li><a href="teaching.html">Teaching</a></li>
 		
-		<li><a href="trivia.html">Trivia</a></li>
+		<li><a href="biography.html">Biography</a></li>
         
 		</ul>
       
@@ -70,7 +69,7 @@
       
 	<div id="content">
         
-	<h2>Welcome to Chenlin Gu's homepage .</h2>
+	<h2>Welcome to Chendong Song's homepage .</h2>
 	
 	<p>
 	Since Oct. 2018, I am a PhD student in probability and statistics in <a href="http://www.math.ens.fr/">DMA/ENS</a>, supervised by <a href="http://www.math.ens.fr/~mourrat/">Jean-Christophe Mourrat</a>. 
@@ -90,7 +89,7 @@
 		D&eacute;partement de math&eacute;matiques,45 rue d'Ulm 
 		75005 Paris,France</li>
           
-		<li><strong>E-mail: </strong>chenlin.gu@ens.fr</li>
+		<li><strong>E-mail: </strong>Chendong.gu@ens.fr</li>
              
 	</u2>
 	</div>

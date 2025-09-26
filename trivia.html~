@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<!-- saved from url=(0058)file:///F:/iStudy/X/PhD_SPDE/ChenlinGU_Homepage/index.html -->
+<!-- saved from url=(0058)file:///F:/iStudy/X/PhD_SPDE/ChendongSONG_Homepage/index.html -->
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
   
-	<title>ChenlinGU_Homepage</title>
+	<title>ChendongSONG_Homepage</title>
   
 	<meta name="description" content="website description">
   
@@ -28,7 +28,7 @@
           
 		<!-- class="logo_colour", allows you to change the colour of the text -->
           
-		<h1><a href="index.html"><span class="logo_colour">Chenlin GU <font size=6 >(&#39038;&#38472;&#29747;)</font></span></a></h1>
+		<h1><a href="index.html"><span class="logo_colour">Chendong SONG <font size=6 >(&#39038;&#38472;&#29747;)</font></span></a></h1>
         
 	</div>
       	</div>
@@ -42,10 +42,8 @@
 		<li><a href="index.html">Home</a></li>
           
 		<li><a href="research.html">Research</a></li>
-          
-		<li><a href="teaching.html">Teaching</a></li>
 		
-		<li class="selected"><a href="trivia.html">Trivia</a></li>
+		<li class="selected"><a href="biography.html">Biography</a></li>
         
 		</ul>
       
@@ -75,7 +73,7 @@
 	<p>This page is strongly inspired by one of my friend. Since this page is just for fun, 
 	I suggest you skip it quickly and do not waste much time on it if you have some affairs more important
 	to do on hand.</p>
-	<p>Here is <a href="https://guchenlin.blogspot.com/">my blog</a>. Its birth comes from one debate with one
+	<p>Here is <a href="https://guChendong.blogspot.com/">my blog</a>. Its birth comes from one debate with one
 	friend. He thought I just give a lot comments to the others' rather than running a proper blog. Thus I 
 	decided to run my own blog as a counter-attack. Time proves it hard to always keep writing (interesting) ideas,
 	but I try my best.</p>   

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<!-- saved from url=(0058)file:///F:/iStudy/X/PhD_SPDE/ChenlinGU_Homepage/index.html -->
+<!-- saved from url=(0058)file:///F:/iStudy/X/PhD_SPDE/ChendongSONG_Homepage/index.html -->
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
   
-	<title>ChenlinGU_Homepage</title>
+	<title>ChendongSONG_Homepage</title>
   
 	<meta name="description" content="website description">
   
@@ -28,7 +28,7 @@
           
 		<!-- class="logo_colour", allows you to change the colour of the text -->
           
-		<h1><a href="index.html"><span class="logo_colour">Chenlin Gu <font size=6 >(&#39038;&#38472;&#29747;)</font></span></a></h1>
+		<h1><a href="index.html"><span class="logo_colour">Chendong Song <font size=6 >(&#39038;&#38472;&#29747;)</font></span></a></h1>
         
 	</div>
       	</div>
@@ -42,10 +42,8 @@
 		<li><a href="index.html">Home</a></li>
           
 		<li class="selected"><a href="research.html">Research</a></li>
-          
-		<li><a href="teaching.html">Teaching</a></li>
 		
-		<li><a href="trivia.html">Trivia</a></li>
+		<li><a href="biography.html">Biography</a></li>
         
 		</ul>
       
@@ -117,7 +115,7 @@ https://www.iam.uni-bonn.de/users/giunti/home
 	
 	<h2>Thesis</h2>
 		<ul>
-			<li>PhD thesis supervised by <a href="http://www.math.ens.fr/~mourrat/index.html", class="class1">Jean-Christophe Mourrat</a> (April 2021). <a href="http://www.math.ens.fr/~gu/thesis_Chenlin_Gu.pdf", class="class2">[pdf]</a> </li>
+			<li>PhD thesis supervised by <a href="http://www.math.ens.fr/~mourrat/index.html", class="class1">Jean-Christophe Mourrat</a> (April 2021). <a href="http://www.math.ens.fr/~gu/thesis_Chendong_Song.pdf", class="class2">[pdf]</a> </li>
 
 			<li>M2 thesis on homogenization supervised by <a href="http://www.math.ens.fr/~mourrat/index.html", class="class1">Jean-Christophe Mourrat</a> (July 2018). <a href="notes/M2.pdf", class="class2">[pdf]</a> </li>
 
@@ -161,9 +159,9 @@ https://www.iam.uni-bonn.de/users/giunti/home
 
 			<li>01/06/2021, <b>Quantitative homogenization and its applications</b>, Forum of young researchers, Fudan University, Shanghai.</li>
 
-			<li>21/05/2021, <b>Heat kernel on the infinite percolation cluster</b>, I2M, Aix-Marseille Université (Online).</li>
+			<li>21/05/2021, <b>Heat kernel on the infinite percolation cluster</b>, I2M, Aix-Marseille Universitï¿½ (Online).</li>
 
-			<li>06/05/2021, <b>Heat kernel on the infinite percolation cluster</b>, IRMA, Université de Strasbourg (Online).</li>
+			<li>06/05/2021, <b>Heat kernel on the infinite percolation cluster</b>, IRMA, Universitï¿½ de Strasbourg (Online).</li>
 
 			<li>27/04/2021, <b>Heat kernel on the infinite percolation cluster</b>, Fudan University (Online). <a href="PPT/HeatKernel_PPT_FDU.pdf", class="class2">[ppt]</a></li>
 
@@ -176,22 +174,22 @@ https://www.iam.uni-bonn.de/users/giunti/home
 			<li>30/07/2020, <b>Decay of semigroup for an infinite interacting particle system on continuum configuration spaces</b>, Academy of Mathematics and Systems Science, Chinese Academy of Science (Oneline).</li>
 
 
-			<li>15/05/2020, <b>Introduction on Wigner's semicircle law</b>, Seminar of PhD students at IMO Université Paris-Saclay (Online).</li>
+			<li>15/05/2020, <b>Introduction on Wigner's semicircle law</b>, Seminar of PhD students at IMO Universitï¿½ Paris-Saclay (Online).</li>
 
 
-			<li>11/05/2020, <b>An efficient algorithm for solving elliptic problems on percolation clusters </b>, Les probabilités de demain 2020 (Oneline). <a href="PPT/AlgoPerco_PPT_200513.pdf", class="class2">[ppt]</a></li>
+			<li>11/05/2020, <b>An efficient algorithm for solving elliptic problems on percolation clusters </b>, Les probabilitï¿½s de demain 2020 (Oneline). <a href="PPT/AlgoPerco_PPT_200513.pdf", class="class2">[ppt]</a></li>
 
 			<li>13/12/2019, <b>Heat kernel on the infinite percolation cluster</b>, Seminar on the theory of Markov semigroups and Schrodinger operators at Wroclaw University of Technology, Wroclaw, Poland.</li>
 
-			<li>04/11/2019, <b>Heat kernel on the infinite percolation cluster</b>, Seminar of PhD students at LPSM Université Sorbonne, Paris, France.  <a href="PPT/HeatKernel_PPT.pdf", class="class2">[ppt]</a></li>
+			<li>04/11/2019, <b>Heat kernel on the infinite percolation cluster</b>, Seminar of PhD students at LPSM Universitï¿½ Sorbonne, Paris, France.  <a href="PPT/HeatKernel_PPT.pdf", class="class2">[ppt]</a></li>
 
 			<li>28/08/2019, <b>An introduction of Calderon-Zygmund decomposition on percolation clusters</b>, also with a presentation on <b>the stochastic representation of Riesz transform </b>after the work of R. Banuelos, Workshop of harmonic analysis 2019, Saint-Nazaire, France.</li>
 
 			<li>13/07/2019, <b>A stochastic neural network approximates Derrida-Retaux model</b>, 49th Saint-Flour Probability Summer School, Saint-Flour, France.</li>
 
-			<li>25/06/2019, <b>An iterative algorithm for Dirichlet problem with random conductance</b>, Journées de Probabilités 2019, Dourdan, France. <a href="PPT/AlgoPerco_PPT.pdf", class="class2">[ppt]</a></li>
+			<li>25/06/2019, <b>An iterative algorithm for Dirichlet problem with random conductance</b>, Journï¿½es de Probabilitï¿½s 2019, Dourdan, France. <a href="PPT/AlgoPerco_PPT.pdf", class="class2">[ppt]</a></li>
 
-			<li>13/05/2019, <b>A mathematical model on black market</b>, Seminar of PhD students at LPSM Université Sorbonne, Paris, France. <a href="PPT/BlackMarket.pdf", class="class2">[ppt]</a></li>
+			<li>13/05/2019, <b>A mathematical model on black market</b>, Seminar of PhD students at LPSM Universitï¿½ Sorbonne, Paris, France. <a href="PPT/BlackMarket.pdf", class="class2">[ppt]</a></li>
 
 			<li>01/04/2019, <b>An iterative algorithm for Dirichlet problem with random conductance</b>, Fudan University, Shanghai, China.</li>
 
